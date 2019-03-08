@@ -10,6 +10,7 @@ module.exports = {
             { text: 'Home', link: '/' },
             { text: 'Projects', link: '/projects/' },
             { text: 'Blog', link: '/blog/' },
+            { text: 'Laravel', link: '/laravel/' },
             { text: 'Git-Profile', link: 'https://github.com/utshab-roy' },
         ],
         sidebar: {
@@ -21,6 +22,12 @@ module.exports = {
                 '',
                 'laravel-medialibrary',
                 'form-submit-without-CSRF',
+            ],
+            '/laravel/': [
+                '',
+                'lara-blog',
+                'lara-ecommerce',
+                'lara-QA',
             ],
         }
     },
