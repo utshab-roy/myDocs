@@ -27,7 +27,7 @@ module.exports = {
                 '',
                 'lara-blog',
                 'lara-ecommerce',
-                'lara-QA',
+                'lara-qa',
             ],
         }
     },
