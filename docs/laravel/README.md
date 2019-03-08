@@ -12,4 +12,4 @@ In this section you will find all my laravel project's details and documentation
 
 [Lara-Ecommerce](lara-ecommerce.md) (Simple E-commerce site)
 
-[Lara-QA](lara-QA.md) (Questions Answers forum)
+[Lara-QA](lara-qa.md) (Questions Answers forum)
