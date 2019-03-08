@@ -21,7 +21,7 @@ module.exports = {
             '/blog/': [
                 '',
                 'laravel-medialibrary',
-                'form-submit-without-CSRF',
+                'form-submit-without-csrf',
             ],
             '/laravel/': [
                 '',

@@ -12,4 +12,4 @@ Right now I'm mostly focused on Laravel web development.
 
 [Laravel Media Library](laravel-medialibrary.md)
 
-[Laravel form submit without CSRF](form-submit-without-CSRF.md)
+[Laravel form submit without CSRF](form-submit-without-csrf.md)
