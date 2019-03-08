@@ -9,12 +9,18 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Projects', link: '/projects/' },
+            { text: 'Blog', link: '/blog/' },
             { text: 'Git-Profile', link: 'https://github.com/utshab-roy' },
         ],
         sidebar: {
             '/projects/': [
                 '',
                 'utshabimagemanipulator',
+            ],
+            '/blog/': [
+                '',
+                'laravel-medialibrary',
+                'form-submit-without-CSRF',
             ],
         }
     },
