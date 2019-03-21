@@ -11,12 +11,12 @@ sidebarDepth: 2
 
   - User can login and register, full CRUD operation for both Answer and Question
   - User can ask as many questions and can give the answers of the existing questions
-  - Many to Many relationship build for marking the question as a favourite question
+  - Many to Many relationship build for marking the question as a favorite question
   - Many to Many polymorphic relationship build for voting system both for Question and Answer
   - Eager loading implemented for removing (n + 1) problem as required
   - Don't Repeat Yourself (DRY) principle followed in the Question and Answer models to prevent redundant code
   - Accessor and Mutator generated as required to make clean code
-  - Prtial blade file included for better understanding the front view
+  - Partial blade file included for better understanding the front view
   - PHP trait used for VotableTrait for sharing same code
   - Single action controller implemented for doing a particular job like accept answer as best answer
   - Auth middleware declared to prevent on authorized user to post question or answers. However, all user can see the questions and answers given by the logged in users.

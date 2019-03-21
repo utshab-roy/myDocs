@@ -3,6 +3,7 @@ sidebarDepth: 2
 ---
 
 # Larablog
+
 This is a simple Blog application developed on **Laravel 5.7** framework. 
 
 ## Features
@@ -13,7 +14,7 @@ This is a simple Blog application developed on **Laravel 5.7** framework.
   - Full CRUD operation for the post and the category using **RESTful** convention
   - Homepage route has Redis cache system
   - Mail notify for posting new post
-  - Pusher real time broading for logged in user
+  - Pusher real time broadcasting for logged in user
 
 
 ## Installation
@@ -72,7 +73,7 @@ This is a simple Blog application developed on **Laravel 5.7** framework.
     ```
 This will create `10` users, `50` posts and `10` categories. The default password for the users is `121212`
 
-**Now you are reday to use the Application** 
+**Now you are ready to use the Application** 
 
 ### Development
 Want to contribute? Great!

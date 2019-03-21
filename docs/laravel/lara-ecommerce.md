@@ -58,7 +58,7 @@ This is a simple E-commerce application developed on **Laravel 5.7** framework.
 
     In order to use the mail smtp protocol for the test, change the `MAIL_HOST`, `MAIL_PORT`, `MAIL_USERNAME`, `MAIL_PASSWORD` credentials according to your setup.
     
-    For OAuth2 for Gitgub login include `GITHUB_CLIENT_ID` and `GITHUB_CLIENT_SECRET` and define the callback url properly.
+    For OAuth2 for Github login include `GITHUB_CLIENT_ID` and `GITHUB_CLIENT_SECRET` and define the callback url properly.
 
 
 9. Migrate the database
@@ -73,7 +73,7 @@ This is a simple E-commerce application developed on **Laravel 5.7** framework.
     ```
 The default password for any the users is `121212`
 
-**Now you are reday to use the Application** 
+**Now you are ready to use the Application** 
 
 ### Development
 Want to contribute? Great!

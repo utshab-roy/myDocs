@@ -22,6 +22,7 @@ module.exports = {
                 '',
                 'laravel-medialibrary',
                 'form-submit-without-csrf',
+                'add-jquery-to-laravel',
             ],
             '/laravel/': [
                 '',

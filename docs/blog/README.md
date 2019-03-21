@@ -13,3 +13,5 @@ Right now I'm mostly focused on Laravel web development.
 [Laravel Media Library](laravel-medialibrary.md)
 
 [Laravel form submit without CSRF](form-submit-without-csrf.md)
+
+[Proper Way to add jQuery to Laravel projects](add-jquery-to-laravel.md)

@@ -7,7 +7,7 @@ I'm assuming that you have very basic knowledge of Laravel Framework.
 
 ## Installing the Library
 
-First of all, we have to inastall the library. Just copy and paste one by one command below.
+First of all, we have to install the library. Just copy and paste one by one command below.
 
 ``` php
 composer require spatie/laravel-medialibrary:^7.0.0
@@ -52,7 +52,7 @@ class News extends Model implements HasMedia
 
 ### Migration file
 
-Now configure the migration file (create_news_table.php) to have some fileds for the News.
+Now configure the migration file (create_news_table.php) to have some fields for the News.
 
 ``` php
 <?php

@@ -120,7 +120,7 @@ Email address: <utshab.roy@gmail.com>
 
 ## Todos
 
- - More instagram effect need tobe added
+ - More instagram effect need to be added
  - Improve the resize method without losing the image quality
 
 License

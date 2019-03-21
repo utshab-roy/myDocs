@@ -6,7 +6,7 @@ sidebarDepth: 2
 
 ## Why needed
 
-Well, to be honest, it's alwasys good to use the CSRF token to submit a form to the system. It is a really good way to protect your site form malicious user to make an unexpected perform. However, there are certain point or case where you want to submit a form without CSRF token. For example, you want to embed a form in HTML for inside and outside users. Then they will not have the CSRF token with them.
+Well, to be honest, it's always good to use the CSRF token to submit a form to the system. It is a really good way to protect your site form malicious user to make an unexpected perform. However, there are certain point or case where you want to submit a form without CSRF token. For example, you want to embed a form in HTML for inside and outside users. Then they will not have the CSRF token with them.
 
 Another example is, if you are using Stripe to process payments and are utilizing their webhook system, you will need to exclude your Stripe webhook handler route from CSRF protection since Stripe will not know what CSRF token to send to your routes.[(source)](https://laravel.com/docs/5.7/csrf)
 
@@ -53,6 +53,6 @@ That's all. Now those URL can have form without CSRF token.
 
 ## Conclusion
 
-CSRF token is really a good way to protect your site. I will alwasys suggest you to use it, and avoid it if only it is not needed.
+CSRF token is really a good way to protect your site. I will always suggest you to use it, and avoid it if only it is not needed.
 
 **Happy Coding !**
