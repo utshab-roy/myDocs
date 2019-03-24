@@ -17,6 +17,7 @@ module.exports = {
             '/projects/': [
                 '',
                 'utshabimagemanipulator',
+                'cbx-dashboard-widget',
             ],
             '/blog/': [
                 '',

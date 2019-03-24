@@ -11,3 +11,5 @@ To see the laravel projects details please select laravel section from the navba
 ## List of my projects
 
 [utshabimagemanipulator](utshabimagemanipulator.md)
+
+[CBX Dashboard Widget](cbx-dashboard-widget.md)
