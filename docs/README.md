@@ -3,7 +3,7 @@
 I am a Computer Engineer and Web Developer from BRAC University. I like to explore new technology.
 Love coding and want to build my career as a software developer.
 
-Currently I'm focusing on Laravel and javaScript development. My programming basic is build upon JAVA.
+Currently I'm working is a software company in Japan. My programming basic is build upon JAVA.
 
 Here you will find the details of my previous and current projects. I sometimes write [Blog](/blog/). Feel free to check those out.
 
