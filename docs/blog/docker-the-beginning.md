@@ -1,3 +1,7 @@
+---
+sidebarDepth: 2
+---
+
 # Docker Basic Command
 
 ## Installation / Initialization
